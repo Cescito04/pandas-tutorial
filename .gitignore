@@ -1,0 +1,25 @@
+# Ignorer le dossier 'env' (environnements virtuels)
+myenv/
+
+# Ignorer les fichiers et dossiers de configuration des IDE (exemples)
+.vscode/
+.idea/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers de compilations ou de distributions
+*.class
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorer les dépendances spécifiques aux systèmes
+node_modules/
+vendor/
+
+# Ignorer les fichiers temporaires
+*.swp
+*.bak
+*.tmp
